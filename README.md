@@ -1,3 +1,5 @@
+<div align="center">
+  
 # 🤖 CRIPSIZE Discord Bot
 
 <div align="center">
