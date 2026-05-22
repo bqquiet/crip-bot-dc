@@ -168,12 +168,10 @@ python run.py
 
 ```plaintext
 crip-bot-dc/
-│
 ├── run.py
 ├── config.json
 ├── .env
 ├── database.sqlite
-│
 ├── banner.png
 ├── avatar.png
 ├── tempvoice_ui.png
@@ -203,7 +201,6 @@ crip-bot-dc/
         ├── tempvoice.py
         └── pluse.py
 ```
-
 ---
 
 # 💬 Commands
